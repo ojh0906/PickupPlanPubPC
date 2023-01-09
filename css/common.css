@@ -549,6 +549,7 @@
 .gnb-container {
   width: 100%;
   background-color: #ffffff;
+  border-bottom: 1px solid #D9D9D9;
 }
 .gnb-container .gnb-wrap {
   width: 1280px;
