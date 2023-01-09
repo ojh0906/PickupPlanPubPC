@@ -347,6 +347,9 @@
 .pt17 {
   padding-top: 17px;
 }
+.pt18 {
+  padding-top: 18px;
+}
 .pt19 {
   padding-top: 19px;
 }
@@ -425,6 +428,9 @@
 }
 .pb15 {
   padding-bottom: 15px;
+}
+.pb16 {
+  padding-bottom: 16px;
 }
 .pb20 {
   padding-bottom: 20px;
@@ -515,6 +521,14 @@
   line-height: 24px;
 }
 
+/* font weight */
+.fw500 {
+  font-weight: 500;
+}
+.fw700 {
+  font-weight: 700;
+}
+
 /*  Common  */
 #content {
   background: #fafafc;
@@ -580,14 +594,6 @@
 }
 .gnb-container .gnb-wrap .side-wrap a:nth-last-child(1) {
   border-right: none;
-}
-
-/* font weight */
-.fw500 {
-  font-weight: 500;
-}
-.fw700 {
-  font-weight: 700;
 }
 
 /* footer */
